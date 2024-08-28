@@ -1,0 +1,27 @@
+.vo{
+    
+        width: 100%;
+        height: max-content;
+        margin:  0 auto;
+    
+}
+.hi{
+    width: 70%;
+    height: max-content;
+    margin:  0 auto;
+    background-color: white;
+}
+.can{
+   text-align: center;
+}
+.boder{
+    border: 1px solid gray;
+    width: 750px;
+    height: 500px;
+    background-color:black;
+    text-align: center;
+   
+}
+.vo .boder img {
+   padding: 40px;
+}
